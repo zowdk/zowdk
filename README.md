@@ -6,9 +6,7 @@ Learning: CSS, JavaScript, Design Thinking, and Danish 🇩🇰.
 
 Check out some of my work: 
 
-💻 http://zow.dk/
-
-More projects coming soon! ✨
+💻 http://zow.dk/ ✨
 
 _________________________________________
 
