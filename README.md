@@ -12,3 +12,4 @@ _________________________________________
 
 [![Zoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=zowdk)](https://github.com/zowdk/github-readme-stats)
 
+![Zoes's GitHub stats](https://github-readme-stats.vercel.app/api?username=zowdk&theme=jolly_icons=true)
