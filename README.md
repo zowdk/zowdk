@@ -8,10 +8,15 @@ A self-taught junior developer with a background in customer-facing / operationa
 In 2020, I moved from California to Denmark. While exploring new career paths, I became attracted to the creative and visual aspects of frontend as a way to solve problems I find interesting or important. Recently, I've been focused on learning JavaScript, React, Design Thinking and Danish 🇩🇰. 
 _________________________________________
 
+- 🚀 Seeking junior developer roles in the Greater Copenhagen area <br>
+(💬 ask about salary-subsidy!) 
+
 - ✨Currently, I'm working on frontend skills with [aA Open](https://www.appacademy.io/course/app-academy-open), [freeCodeCamp](https://www.freecodecamp.org/), and [Scrimba](https://scrimba.com/)
-- 🔗 Let's connect! Get in touch on the [bird app](https://twitter.com/zowdk), or [Linkedin](https://www.linkedin.com/in/zoemolivier)
 - 🛁 On the side I am building a static e-commerce site for a local soap maker
+
 - 💻 Check out my personal portfolio [here](http://zow.dk/)
+- 🔗 Let's connect! Get in touch on the [bird app](https://twitter.com/zowdk), or [Linkedin](https://www.linkedin.com/in/zoemolivier)
+
 
 ## ⚙️ Technologies & Tools
 <!-- Awesome badges from https://dev.to/envoy_/150-badges-for-github-pnk -->
