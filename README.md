@@ -12,9 +12,9 @@ _________________________________________
 (💬 ask about salary-subsidy!) 
 
 - ✨Currently, I'm working on frontend skills with [aA Open](https://www.appacademy.io/course/app-academy-open), [freeCodeCamp](https://www.freecodecamp.org/), and [Scrimba](https://scrimba.com/)
-- 🛁 On the side I am building a static e-commerce site for a local soap maker
 
 - 💻 Check out my personal portfolio [here](http://zow.dk/)
+
 - 🔗 Let's connect! Get in touch on the [bird app](https://twitter.com/zowdk), or [Linkedin](https://www.linkedin.com/in/zoemolivier)
 
 
