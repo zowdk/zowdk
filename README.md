@@ -5,7 +5,7 @@
 
 A self-taught junior developer with a background in customer-facing / operational roles in manufacturing.
 
-In 2020, I moved from California to Denmark. While exploring new career paths, I became attracted to the creative and visual aspects of frontend as a way to solve problems I find interesting or important. Recently, I've been focused on learning JavaScript, React, Design Thinking and Danish 🇩🇰. 
+In 2020, I moved from California to Denmark. While exploring new career paths, I became attracted to the creative and visual aspects of frontend, and to software development as a way to solve problems I find interesting or important. Recently, I've been focused on learning JavaScript, React, Design Thinking and Danish 🇩🇰. 
 _________________________________________
 
 - 🚀 Seeking junior developer roles in the Greater Copenhagen area <br>
