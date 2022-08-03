@@ -28,7 +28,7 @@ _________________________________________
 ![Mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
 
 
-## 📈 GirHub Stats
+## 📈 GitHub Stats
 <!-- GitHub Stats by github-readme-stats.vercel.app -->
 _________________________________________
 
