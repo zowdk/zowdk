@@ -8,10 +8,11 @@ A self-taught junior developer with a background in customer-facing / operationa
 In 2020, I moved from California to Denmark. While exploring new career paths, I became attracted to the creative and visual aspects of frontend, and to software development as a way to solve problems I find interesting or important. Recently, I've been focused on learning JavaScript, React, Design Thinking and Danish 🇩🇰. 
 _________________________________________
 
-- 🚀 Seeking junior developer roles in the Greater Copenhagen area <br>
-(💬 ask about salary-subsidy!) 
+- 🚀 I'm seeking a full-time junior developer role in the Greater Copenhagen area
 
-- ✨Currently, I'm working on frontend skills with [aA Open](https://www.appacademy.io/course/app-academy-open), [freeCodeCamp](https://www.freecodecamp.org/), and [Scrimba](https://scrimba.com/)
+- ✨ Currently deepening my frontend skills with [a/A Open](https://www.appacademy.io/course/app-academy-open), [freeCodeCamp](https://www.freecodecamp.org/), [JavaScript30](https://javascript30.com/), and over at [Scrimba](https://scrimba.com/)
+
+- 📚 Reading Barbara Oakley's [A Mind for Numbers: How to Excel at Math and Science](https://barbaraoakley.com/books/a-mind-for-numbers/)
 
 - 💻 Check out my personal portfolio [here](http://zow.dk/)
 
