@@ -32,8 +32,8 @@ _________________________________________
 <!-- GitHub Stats by github-readme-stats.vercel.app -->
 _________________________________________
 
-<img src="https://github-readme-stats.vercel.app/api?username=zowdk&show_icons=true&include_all_commits=true&count_private=true&theme=radical&layout=compact" alt="GitHub Stats for @zowdk" width="700">
+<img src="https://github-readme-stats-zowdk.vercel.app/api?username=zowdk&show_icons=true&include_all_commits=true&count_private=true&theme=radical&layout=compact" alt="GitHub Stats for @zowdk" width="700">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=zowdk&theme=radical" width="700">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zowdk&show_icons=true&theme=radical&layout=compact" alt="GitHub Top Languages for @zowdk)](https://github.com/zowdk/github-readme-stats" alt="Top Languauges for @zowdk" width="700" height="300">
+<img src="https://github-readme-stats-zowdk.vercel.app/api/top-langs/?username=zowdk&show_icons=true&theme=radical&layout=compact" alt="GitHub Top Languages for @zowdk)](https://github.com/zowdk/github-readme-stats" alt="Top Languauges for @zowdk" width="700" height="300">
